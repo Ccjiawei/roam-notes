@@ -1,0 +1,303 @@
+Angkor - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/668/)
+citeturn3view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://whc.unesco.org/en/list/668/","lineno":null}); Total lines: 272
+L0: 【0†iframe†www.googletagmanager.com】Your browser does not support JavaScript.
+L1: 
+L2: # Angkor
+L3: ###### Angkor
+L4: 
+L5: Angkor is one of the most important archaeological sites in South-East Asia. Stretching over some 400 km2, including forested area, Angkor Archaeological Park contains the magnificent remains of the different capitals of the Khmer Empire, from the 9th to the 15th century. They include the famous Temple of Angkor Wat and, at Angkor Thom, the Bayon Temple with its countless sculptural decorations. UNESCO has set up a wide-ranging programme to safeguard this symbolic site and its surroundings.
+L6: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L7: ###### Angkor
+L8: 
+L9: Angkor est l’un des principaux sites archéologiques de l’Asie du Sud-Est. S’étendant sur quelque 400 km2 couverts en partie par la forêt, le parc archéologique d’Angkor recèle les admirables vestiges des différentes capitales de l’Empire khmer qui rayonna entre le IXe et le XVe siècle : le célèbre temple d’Angkor Vat et, à Angkor Thom, le temple du Bayon orné d’innombrables sculptures. L’UNESCO a mis en œuvre un vaste programme de sauvegarde de ce site symbole et de son environnement.
+L10: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L11: ###### أنغكور
+L12: 
+L13: يمثّل موقع أنغكور أحد أهم المواقع الأثرية في جنوب شرق آسيا. تمتد هذه الحديقة الأثرية على حوالى 400 كم٢ من الأراضي المغطاة جزئياً بالغابات وتزخر بالآثار الرائعة للعواصم المختلفة لإمبراطورية الخمير التي سطع نجمها بين القرن التاسع والقرن الخامس عشر. ومن أبرز هذه الآثار، معبد أنغكور فات الشهير ومعبد بايون، في أنغكور توم، المزيّن بالعديد من المنحوتات. ولقد وضعت اليونسكو برنامجاً واسع النطاق لحماية هذه الموقع الرمزي والبيئة المحيطة به.
+L14: source: UNESCO/CPE
+L15: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L16: ###### 吴哥窟
+L17: 
+L18: 吴哥窟是东南亚最重要的考古学遗址之一。吴哥窟遗址公园占地面积达400多平方公里，包括森林地区，有9至15世纪高棉王国(the Khmer Empire)各个时期首都的辉煌遗迹，其中包括了著名的吴哥寺(Angkor Wat)，以及坐落在吴哥索姆(Angkor Thom)以无数雕塑饰品而著称的白永寺庙(Bayon Temple)。联合国教科文组织已经对这一遗址及其周边制定了一项覆盖范围广泛的保护计划。
+L19: 
+L20: source: UNESCO/CPE
+L21: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L22: ###### Ангкор
+L23: Ангкор является одним из важнейших археологических объектов в Юго-Восточной Азии. Раскинувшийся на площади, превышающей вместе с лесными массивами 400 кв. км, Ангкорский археологический парк располагает великолепными руинами, сохранившимися от нескольких столиц империи Кхмеров IX–XV вв. Это знаменитый храм Ангкор-Ват, храм Байон в Ангкор-Тхоме с бесчисленными скульптурными украшениями. ЮНЕСКО разработала комплексную программу охраны этого имеющего символическое значение объекта и его окружения.
+--------------------------------------------------------------------------------
+Taj Mahal - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/252/)
+citeturn3view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://whc.unesco.org/en/list/252/","lineno":null}); Total lines: 189
+L0: 【0†iframe†www.googletagmanager.com】Your browser does not support JavaScript.
+L1: 
+L2: # Taj Mahal
+L3: 
+L4: ###### Taj Mahal
+L5: 
+L6: An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage.
+L7: 
+L8: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L9: ###### Le Taj Mahal
+L10: 
+L11: Immense mausolée funéraire de marbre blanc édifiée entre 1631 et 1648 à Agra sur l'ordre de l'empereur moghol Shah Jahan pour perpétuer le souvenir de son épouse favorite, le Taj Mahal, joyau le plus parfait de l'art musulman en Inde, est l'un des chefs-d'œuvre universellement admirés du patrimoine de l'humanité.
+L12: 
+L13: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L14: ###### تاج محل
+L15: 
+L16: إنّ تاج محل هو ضريح جنائزي هائل شُيّد من الرخام الأبيض بين عامي 1631 و1648 في أغرا بناءً على أوامر الإمبراطور المغولي شاه جهان بهدف تخليد ذكرى زوجته المفضّلة. ويشكّل تاج محل الذي يُعتبر أفضل جوهرة في الفن الإسلامي في الهند إحدى أبرز تُحف التراث البشري التي هي محطّ إعجاب العالم بأسره.
+L17: 
+L18: source: UNESCO/CPE
+L19: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L20: ###### 泰姬陵
+L21: 
+L22: 泰姬陵是一座由白色大理石建成的巨大陵墓清真寺，是莫卧儿皇帝沙贾汗(Shah Jahan)为纪念他心爱的妃子于1631年至1648年在阿格拉修建的。泰姬陵是印度穆斯林艺术的瑰宝奇葩，是世界遗产中令世人赞叹的经典杰作之一。
+L23: 
+L24: source: UNESCO/CPE
+L25: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L26: ###### Мавзолей Тадж-Махал (город Агра)
+L27: 
+L28: Великолепный мавзолей из белого мрамора был возведен в Агре между 1631 и 1648 гг. по приказу могольского императора Шах-Джахана в память о его любимой жене. Тадж-Махал – это жемчужина мусульманского искусства в Индии и один из всеми признанных шедевров всемирного наследия.
+L29: 
+L30: source: UNESCO/CPE
+L31: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L32: ###### Taj Mahal
+L33: 
+L34: Edificado entre 1631 y 1648 por orden del emperador mogol Shah Jahan para perpetuar la memoria de su esposa favorita, este grandioso mausoleo de mármol blanco es el más precioso joyel del arte musulmán en la India y una de las obras maestras universalmente admiradas del patrimonio cultural de la humanidad.
+L35: 
+L36: source: UNESCO/CPE
+L37: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L38: ###### タージ・マハル
+L39: 
+L40: 1632年から22年の歳月をかけて、アグラの町に建てられた霊廟。ムガール帝国第5代のシャー・ジャハーンが、亡くなった最愛の妃ムムターズ・マハルのために建立した。中心のドームの高さは58m、周辺に4本のミナレット（尖塔）がそびえている。外観はペルシア風だが、内部はインド的な造りで、世界的にも最も美しいイスラーム建築の傑作といわれている。
+L41: 
+L42: source: 【2†NFUAJ†www.unesco.or.jp】
+L43: ###### Taj Mahal
+--------------------------------------------------------------------------------
+Venice and its Lagoon - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/394/)
+citeturn3view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://whc.unesco.org/en/list/394/","lineno":null}); Total lines: 306
+L0: 【0†iframe†www.googletagmanager.com】Your browser does not support JavaScript.
+L1: 
+L2: # Venice and its Lagoon
+L3: ###### Venice and its Lagoon
+L4: 
+L5: Founded in the 5th century and spread over 118 small islands, Venice became a major maritime power in the 10th century. The whole city is an extraordinary architectural masterpiece in which even the smallest building contains works by some of the world's greatest artists such as Giorgione, Titian, Tintoretto, Veronese and others.
+L6: 
+L7: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L8: ###### Venise et sa lagune
+L9: 
+L10: La ville insulaire fondée au Ve siècle s'étend sur 118 îlots. Elle est devenue une grande puissance maritime au Xe siècle. Venise dans son ensemble est un extraordinaire chef-d'œuvre architectural car même le plus petit monument renferme des œuvres de certains des plus grands artistes du monde, tels Giorgione, Titien, le Tintoret, Véronèse et d'autres.
+L11: 
+L12: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L13: ###### البندقية وبحيرتها الشاطئية
+L14: 
+L15: تمتدّ هذه المدينة، القائمة فوق أرخبيل، والتي تأسست في القرن الخامس، على 118 جزيرة. وقد أصبحت قوة بحرية كبيرة في القرن العاشر. وتشكل البندقية بمجملها تحفة هندسية معمارية مذهلة فحتى النصب الأصغر فيها يحتوي على أعمال لبعض من كبار فنّاني العالم مثل دجورجوني ووتيتيان ولو تانتوريه وفيرونيز وغيرهم.
+L16: 
+L17: source: UNESCO/CPE
+L18: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L19: ###### 威尼斯及泻湖
+L20: 
+L21: 威尼斯始建于5世纪，由118个小岛构成，10世纪时成为当时最主要的海上力量。整个威尼斯城就是一幅非凡的建筑杰作，即便是城中最不起眼的建筑也可能是出自诸如焦尔焦内(Giorgione)、提香(Titian)、丁托列托(Tintoretto)、韦罗内塞(Veronese)等世界大师之手。
+L22: 
+L23: source: UNESCO/CPE
+L24: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L25: ###### Венеция и ее лагуна
+L26: 
+L27: Основанная в V в. и расположенная на 118 маленьких островах, Венеция в X в. стала крупной морской державой. Весь город представляет собой выдающийся архитектурный ансамбль, где практически в каждом здании можно найти работы таких всемирно известных художников как Джорджоне, Тициан, Тинторетто, Веронезе и др.
+L28: 
+L29: source: UNESCO/CPE
+L30: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L31: ###### Venecia y su Laguna
+L32: 
+L33: Fundada en el siglo V, esta ciudad lacustre comprende 118 islotes. En el siglo X se convirtió en una gran potencia marítima. Venecia es, en su conjunto, una obra maestra de la arquitectura y hasta los más pequeños de sus monumentos albergan obras de los más grandes artistas de todos los tiempos, como Giorgione, Tiziano, Veronés y el Tintoretto, entre otros.
+L34: 
+L35: source: UNESCO/CPE
+L36: Description is available under license 【1†CC-BY-SA IGO 3.0】
+--------------------------------------------------------------------------------
+Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/91/)
+citeturn3view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://whc.unesco.org/en/list/91/","lineno":null}); Total lines: 195
+L0: 【0†iframe†www.googletagmanager.com】Your browser does not support JavaScript.
+L1: 
+L2: # Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura
+L3: ###### Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura
+L4: Founded, according to legend, by Romulus and Remus in 753 BC, Rome was first the centre of the Roman Republic, then of the Roman Empire, and it became the capital of the Christian world in the 4th century.
+L5: The World Heritage site, extended in 1990 to the walls of Urban VIII, includes some of the major monuments of antiquity such as the Forums, the Mausoleum of Augustus, the Mausoleum of Hadrian, the Pantheon, Trajan’s Column and the Column of Marcus Aurelius, as well as the religious and public buildings of papal Rome.
+L6: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L7: ###### Centre historique de Rome, les biens du Saint-Siège situés dans cette ville bénéficiant des droits d'extra-territorialité et Saint-Paul-hors-les-Murs
+L8: Fondée selon la légende par Romulus et Remus en 753 av. J.-C., la ville de Rome a d’abord été le centre de la République romaine, puis de l’Empire romain, et enfin la capitale du monde chrétien au IVe siècle.
+L9: Le site du patrimoine mondial, étendu en 1990 jusqu’aux murs d’Urbain VIII, comporte quelques-uns des principaux monuments de l’Antiquité tels que les forums et le mausolée d’Auguste, les colonnes de Trajan et de Marc Aurèle, le mausolée d’Hadrien, le Panthéon, ainsi que les édifices religieux et publics de la Rome papale.
+L10: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L11: ###### وسط روما التاريخي، أملاك الكرسي الرسولي الواقع في هذه المدينة والتي تتمتع بحقوق الحصانة السياسية وسان بول فيوري لي مورا
+L12: تأسست روما بحسب الأسطورة على يد رومولوس وريموس في العام 753 ق.م. وكانت أولاً مركزًا للجمهورية الرومانية ثم للامبراطورية الرومانية وأخيرًا عاصمة للعالم المسيحي في القرن الرابع. فالموقع الأثري المدرج في قائمة التراث العالمي الذي وسّع في العام 1990حتى جدران "أوربان 8"، يتضمن بعضًا من النصب الأساسية العائدة إلى العصور القديمة مثل الميادين وضريح "أغسطس" وعواميد "تراجان" و"ماركوس أوريلوس"، وضريح "هادريان" ، والبانثيون، بالإضافة إلى النصب الدينية والعامة في المدينة البابوية.
+L13: source: UNESCO/CPE
+L14: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L15: ###### 罗马历史中心，享受治外法权的罗马教廷建筑和缪拉圣保罗弗利
+L16: 
+L17: 根据神话传说，罗马城由罗穆卢斯和瑞摩斯于公元前753年修建。罗马首先作为罗马共和国的首都，后来是罗马帝国的都城，再后来到了公元4世纪，这里则成了整个基督教世界的中心。1990年，这个世界遗产地的范围扩大到了罗马八区的城墙。该文化遗址包括了一些著名的古代建筑，例如：古罗马广场、奥古斯都的陵墓、哈德良的陵墓、万神殿、图拉真柱、马可·奥里利乌斯柱，以及罗马教皇的许多宗教和公共建筑。
+L18: 
+L19: source: UNESCO/CPE
+L20: Description is available under license 【1†CC-BY-SA IGO 3.0】
+--------------------------------------------------------------------------------
+Paris, Banks of the Seine - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/600/)
+citeturn3view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://whc.unesco.org/en/list/600/","lineno":null}); Total lines: 218
+L0: 【0†iframe†www.googletagmanager.com】Your browser does not support JavaScript.
+L1: 
+L2: # Paris, Banks of the Seine
+L3: ###### Paris, Banks of the Seine
+L4: 
+L5: From the Louvre to the Eiffel Tower, from the Place de la Concorde to the Grand and Petit Palais, the evolution of Paris and its history can be seen from the River Seine. The Cathedral of Notre-Dame and the Sainte Chapelle are architectural masterpieces while Haussmann's wide squares and boulevards influenced late 19th- and 20th-century town planning the world over.
+L6: 
+L7: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L8: ###### Paris, rives de la Seine
+L9: 
+L10: Du Louvre jusqu'à la tour Eiffel, ou de la place de la Concorde au Grand Palais et au Petit Palais, on peut voir l'évolution de Paris et son histoire depuis la Seine. La cathédrale Notre-Dame et la Sainte-Chapelle sont des chefs-d'œuvre d'architecture. Quant aux larges places et avenues construites par Haussmann, elles ont influencé l'urbanisme de la fin du XIX^{e} et du XX^{e} siècle dans le monde entier.
+L11: 
+L12: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L13: ###### باريس، ضفاف نهر السين
+L14: 
+L15: من متحف اللوفر إلى برج إيفيل، أو من ساحة الكونكورد إلى القصر الكبير والقصر الصغير، يمكن رؤية تطور باريس وتاريخها من نهر السين. وتُعتبر كارتدرائية نوتر دام، ووكنيستها  تحفتين من التُحف الهندسية. أما الساحات الواسعة والجادات التي شيّدها هوسمان، فقد خلّفت تأثيرها على تنظيم المُدن منذ أواخر القرن التاسع عشر حتى القرن العشرين في كافة بقاع العالم.
+L16: 
+L17: source: UNESCO/CPE
+L18: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L19: ###### 巴黎塞纳河畔
+L20: 
+L21: 从卢浮宫到埃菲尔铁塔，从协和广场到大小王宫，巴黎的历史变迁从塞纳河可见一斑。巴黎圣母院和圣礼拜堂堪称建筑杰作，而土耳其宽阔的广场和林荫道则影响着19世纪末和20世纪全世界的城市规划。
+L22: 
+L23: source: UNESCO/CPE
+L24: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L25: ###### Берега Сены в Париже
+L26: 
+L27: Эволюция Парижа и вся его история могут быть прослежены на берегах реки Сена – от Лувра до Эйфелевой башни, и от площади Согласия до Большого и Малого дворцов. Собор Парижской Богоматери и Сент-Шапель являются шедеврами архитектуры, а широкие площади и бульвары Оссмана оказали влияние на градостроительство XIX-XX вв. по всему миру.
+L28: 
+L29: source: UNESCO/CPE
+L30: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L31: ###### París (orillas del Sena)
+L32: La evolución de la ciudad de París y su historia se pueden contemplar recorriendo las orillas del Sena desde el museo del Louvre hasta la Torre Eiffel, pasando por la Plaza de la Concordia, el Grand Palais y el Petit Palais. Junto al río se alzan también la catedral de Notre-Dame y la Sainte Chapelle, dos obras maestras de la arquitectura gótica.
+--------------------------------------------------------------------------------
+Plitvice Lakes National Park - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/98/)
+citeturn3view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://whc.unesco.org/en/list/98/","lineno":null}); Total lines: 182
+L0: 【0†iframe†www.googletagmanager.com】Your browser does not support JavaScript.
+L1: 
+L2: # Plitvice Lakes National Park
+L3: ###### Plitvice Lakes National Park
+L4: 
+L5: The waters flowing over the limestone and chalk have, over thousands of years, deposited travertine barriers, creating natural dams which in turn have created a series of beautiful lakes, caves and waterfalls. These geological processes continue today. The forests in the park are home to bears, wolves and many rare bird species.
+L6: 
+L7: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L8: ###### Parc national Plitvice
+L9: 
+L10: Les eaux, qui s'écoulent à travers les roches dolomitiques et calcaires, ont déposé au cours des millénaires des barrières de travertin, formant des barrages naturels qui sont à l'origine d'une série de lacs, de cavernes et de chutes d'eau de toute beauté. Ces processus géologiques se poursuivent de nos jours. Les forêts du parc abritent des ours, des loups et de nombreuses espèces d'oiseaux rares.
+L11: 
+L12: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L13: ###### منتزه بليفيس الوطني
+L14: 
+L15: على مرّ آلاف السنين، خلّفت المياه التي تجري عبر صخور دولوميتيّة وكلسيّة حواجز من صخور ترافرتين الكلسيّة تشكّل سدوداً طبيعيّة أدّت إلى تكوّن سلسلة من البحيرات والكهوف والشلالات الرائعة. وتستمر هذه العمليّات الجيولوجيّة حتّى يومنا هذا. وفي غابات المنتزه دببة وذئاب والعديد من أصناف العصافير النادرة.
+L16: 
+L17: source: UNESCO/CPE
+L18: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L19: ###### 布里特威斯湖国家公园
+L20: 
+L21: 数千年来流经石灰石和白垩上的水，逐渐沉积为石灰华屏障，构成一道道天然堤坝，这些堤坝又形成了一个个美丽的湖泊、洞穴和瀑布。这种地质作用至今仍在继续进行。公园里的森林是熊、狼和许多稀有鸟类的家园。
+L22: 
+L23: source: UNESCO/CPE
+L24: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L25: ###### Национальный парк Плитвицкие озера
+L26: 
+L27: Подземные воды, протекавшие через известняковые породы на протяжении тысячелетий, сформировали травертиновые барьеры, что привело к образованию целого каскада живописных озер, водопадов и пещер. Этот геологический процесс продолжается и по сей день. Здешние леса дают приют медведям, волкам и множеству редких птиц.
+L28: 
+L29: source: UNESCO/CPE
+L30: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L31: ###### Parque nacional de Plitvice
+L32: 
+L33: Al discurrir a través de rocas dolomíticas y calcáreas, las aguas de este parque han depositado a lo largo de milenios barreras de roca travertina, creando así presas naturales que han dado lugar a la formación de toda una serie de lagos, cavernas y cascadas de gran belleza. Este proceso de formación geológica prosigue en nuestros días. Los bosques de este sitio albergan osos, lobos y numerosas especies raras de aves.
+--------------------------------------------------------------------------------
+Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/86/)
+citeturn3view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://whc.unesco.org/en/list/86/","lineno":null}); Total lines: 183
+L0: 【0†iframe†www.googletagmanager.com】Your browser does not support JavaScript.
+L1: 
+L2: # Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur
+L3: ###### Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur
+L4: 
+L5: The capital of the Old Kingdom of Egypt has some extraordinary funerary monuments, including rock tombs, ornate mastabas, temples and pyramids. In ancient times, the site was considered one of the Seven Wonders of the World.
+L6: 
+L7: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L8: ###### Memphis et sa nécropole – les zones des pyramides de Guizeh à Dahchour
+L9: 
+L10: Autour de la capitale de l'Ancien Empire égyptien subsistent d'extraordinaires ensembles funéraires avec leurs tombes rupestres, leurs mastabas finement décorés, leur temples et leurs pyramides. Le site était considéré dans l'Antiquité comme l'une des Sept Merveilles du monde.
+L11: 
+L12: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L13: ###### ممفيس ومقبرتها منطقة الأهرام من الجيزة إلى دهشور
+L14: 
+L15: تقوم حول عاصمة مصر القديمة مبانٍ مأتميّة رائعة بقبورها الصخريّة ومصطباتها جميلة الزينة ومعابدها وأهرامها. وصنف الأقدمون هذا الموقع بين عجائب الدنيا السبع.
+L16: 
+L17: source: UNESCO/CPE
+L18: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L19: 
+L20: ###### 孟菲斯及其墓地金字塔
+L21: 
+L22: 古埃及王国首都有着令人叹为观止的墓地古迹，包括石冢、装饰华丽的墓室、庙宇和金字塔。这处遗址是古代世界七大奇迹之一。
+L23: 
+L24: source: UNESCO/CPE
+L25: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L26: ###### Мемфис и его некрополи - район пирамид от Гизы до Дахшура
+L27: 
+L28: В столице египетского Древнего Царства находятся великолепные погребальные памятники, включающие скальные надгробия, богато украшенные «мастаба», храмы и пирамиды. В древние времена этот объект считался одним из Семи Чудес Света.
+L29: 
+L30: source: UNESCO/CPE
+L31: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L32: ###### Menfis y su necrópolis – Zonas de las pirámides desde Guizeh hasta Dahshur
+L33: 
+L34: En torno a la capital del Antiguo Imperio egipcio subsisten extraordinarios monumentos funerarios: tumbas rupestres, mastabas delicadamente ornamentadas, templos y pirámides. Menfis era considerada en la Antigüedad una de las Siete Maravillas del Mundo.
+L35: 
+L36: source: UNESCO/CPE
+L37: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L38: ###### メンフィスとその墓地遺跡-ギーザからダハシュールまでのピラミッド地帯
+L39: 
+L40: メンフィスはエジプト古王国時代の首都。ギーザの3大ピラミッドなど80余りのピラミッドが残され、中でも高さ146mのクフ王のものが最大。テーベはエジプト中王国・新王国の首都として栄え、ナイル川東岸にあるカルナック神殿や、西岸のラムセス2世などの葬祭殿、砂漠丘陵地の王家の谷の墓地群が、かつての繁栄を物語っている。
+L41: 
+L42: source: 【2†NFUAJ†www.unesco.or.jp】
+L43: ###### Memphis en haar necropolis - de piramides van Gizeh tot Dahsjoer
+--------------------------------------------------------------------------------
+Serengeti National Park - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/156/)
+citeturn3view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://whc.unesco.org/en/list/156/","lineno":null}); Total lines: 198
+L0: 【0†iframe†www.googletagmanager.com】Your browser does not support JavaScript.
+L1: 
+L2: # Serengeti National Park
+L3: 
+L4: ###### Serengeti National Park
+L5: 
+L6: The vast plains of the Serengeti comprise 1.5 million ha of savannah. The annual migration to permanent water holes of vast herds of herbivores (wildebeest, gazelles and zebras), followed by their predators, is one of the most impressive natural events in the world.
+L7: 
+L8: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L9: ###### Parc national de Serengeti
+L10: 
+L11: Dans les vastes plaines de Serengeti, sur un million et demi d'hectares de savanes, les migrations annuelles vers les points d'eau permanents d'immenses troupeaux de millions d'herbivores – gnous, gazelles, zèbres – suivis de leurs prédateurs, offrent un spectacle d'un autre âge, l'un des plus impressionnants au monde.
+L12: 
+L13: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L14: ###### روضة سيرنقيطي الوطنية
+L15: 
+L16: يمكن التمتع في سهول سيرنقيطي الشاسعة وعلى امتداد مليون هكتار ونصف من السهب (سافانا) بمنظر من عصر آخر يعتبر من أروع المشاهد في العالم ويتمثل في الهجرة السنوية لقطعان من ملايين الحيوانات الآكلة للأعشاب كظبي النو والغزلان وحمار الزرد، يتبعها مفترسوها الى نقاط مياه لا تنضب.
+L17: 
+L18: source: UNESCO/CPE
+L19: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L20: ###### 塞伦盖蒂国家公园
+L21: 
+L22: 在广袤的塞伦盖蒂平原上有150万公顷的大草原和数量众多的食草动物羚羊、瞪羚和斑马。每年，当它们为寻找水源而迁徙时，总有食肉动物尾随其后，这是世界上最壮观的景象之一。
+L23: 
+L24: source: UNESCO/CPE
+L25: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L26: ###### Национальный парк Серенгети
+L27: 
+L28: Безбрежные равнинные саванны этого парка занимают площадь 1,5 млн. га. Круглогодичная непрекращающаяся миграция сопровождаемых хищниками крупных стад копытных (антилопы гну, газели, зебры), которые ищут водопой, считается одним из самых ярких сезонных явлений в дикой природе.
+L29: 
+L30: source: UNESCO/CPE
+L31: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L32: ###### Parque Nacional de Serengeti
+L33: 
+L34: En este parque de un millón y medio de hectáreas de vastas llanuras de sabana, las inmensas manadas de millones de herbívoros –ñus, gacelas y cebras– y los predadores que les siguen en sus migraciones anuales en busca de abrevaderos estables, ofrecen uno de los más impresionantes espectáculos del mundo de la naturaleza.
+L35: 
+L36: source: UNESCO/CPE
+L37: Description is available under license 【1†CC-BY-SA IGO 3.0】
+L38: ###### セレンゲティ国立公園
+L39: 
+L40: ヴィクトリア湖東の3州にまたがるタンザニア最大の国立公園。アフリカのサバンナ地帯の中心にあり、東アフリカの300万頭以上の野生動物の楽園、避難所となっている。1957年以来のドイツ人グルメジック父子の国立公園拡大の努力と、タンザニア政府の優れた自然環境保護政策のもとで、野生動物の複雑な生態系の観察・研究の地球上に比類の無い実験室となっている。
+L41: 
+L42: source: 【2†NFUAJ†www.unesco.or.jp】

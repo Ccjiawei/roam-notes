@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "jiuzhaigou",
+    "name": "九寨沟",
+    "english": "Jiuzhaigou",
+    "continent": "亚洲",
+    "country": "中国",
+    "province": "四川",
+    "city": "阿坝",
+    "category": "自然风光",
+    "tags": [
+      "湖泊",
+      "森林",
+      "山谷"
+    ],
+    "unesco": "637",
+    "query": "Jiuzhaigou Five Flower Lake landscape",
+    "subtitle": "把山川的颜色，藏进一汪湖水",
+    "intro": "九寨沟位于四川北部的岷山山脉。高山、森林与层叠的湖泊共同构成这里的风景，富含矿物质的清澈水体映出蓝绿相间的色彩。沿山谷漫步，瀑布、石灰华台地和森林在不同转角展开，也让这里成为认识高山生态系统的一扇窗口。",
+    "highlights": [
+      "在五花海观察水色与倒木的层次",
+      "沿栈道看湖泊、森林与瀑布相接",
+      "留一点时间，慢慢感受山谷的宁静"
+    ],
+    "image": "/images/jiuzhaigou.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/637/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:1 jiuzhaigou valley wu hua hai 2011b.jpg",
+      "author": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg/1280px-1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Landscape of Five Flower Lake (pinyin: Wǔhuā Hǎi) in Rize Valley (pinyin: Rìzé Gōu), Jiuzhaigou Valley National Park, Sichuan Province, Western China (2011)."
+    }
+  },
+  {
+    "id": "zhangjiajie",
+    "name": "张家界 · 武陵源",
+    "english": "Wulingyuan",
+    "continent": "亚洲",
+    "country": "中国",
+    "province": "湖南",
+    "city": "张家界",
+    "category": "自然风光",
+    "tags": [
+      "峰林",
+      "山谷",
+      "云雾"
+    ],
+    "unesco": "640",
+    "query": "Wulingyuan sandstone pillars landscape",
+    "subtitle": "走进云雾深处的石英砂岩峰林",
+    "intro": "武陵源位于湖南西北部，以密集的石英砂岩柱峰闻名。高低错落的峰林之间分布着峡谷、溪流和森林，岩壁在云雾里显得格外修长。这里的看点不仅是单独的一座山峰，更是整片山地地貌在不同视角下呈现的层次。",
+    "highlights": [
+      "从观景台感受峰林的纵深",
+      "观察岩柱与峡谷交错的地貌",
+      "用远景与细节记录山地森林"
+    ],
+    "image": "/images/zhangjiajie.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/640/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:1 tianzishan wulingyuan zhangjiajie 2012.jpg",
+      "author": "chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Panoramic view from Mount Tianzi Shan, Wulingyuan Zhangjiajie hunan China tujia miao 2012"
+    }
+  },
+  {
+    "id": "great-wall",
+    "name": "长城 · 慕田峪",
+    "english": "The Great Wall",
+    "continent": "亚洲",
+    "country": "中国",
+    "province": "北京",
+    "city": "怀柔",
+    "category": "古迹",
+    "tags": [
+      "长城",
+      "建筑",
+      "山脊"
+    ],
+    "unesco": "438",
+    "query": "Mutianyu Great Wall landscape",
+    "subtitle": "沿着山脊，读一段绵延的历史",
+    "intro": "长城是中国北方不同时期修筑的防御工程体系，城墙、关隘与烽燧共同体现了古代军事建筑与地形的结合。慕田峪位于北京怀柔，是欣赏明长城的一段代表性区域。起伏的城墙沿山势延伸，也让建筑与自然形成鲜明的对话。",
+    "highlights": [
+      "沿山势观察城墙与敌楼布局",
+      "寻找城墙转折处的远景",
+      "细看砖石上的历史痕迹"
+    ],
+    "image": "/images/great-wall.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/438/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:The Great Wall (121112481).jpeg",
+      "author": "Luca Casartelli",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_(121112481).jpeg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Wall_%28121112481%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Wall_%28121112481%29.jpeg/1280px-The_Great_Wall_%28121112481%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "500px provided description: The Great Wall [#landscape ,#nature ,#travel ,#China ,#Beijing ,#UNESCO ,#Great Wall ,#Mutianyu]"
+    }
+  },
+  {
+    "id": "forbidden-city",
+    "name": "北京故宫",
+    "english": "The Forbidden City",
+    "continent": "亚洲",
+    "country": "中国",
+    "province": "北京",
+    "city": "东城",
+    "category": "古迹",
+    "tags": [
+      "宫殿",
+      "建筑",
+      "历史"
+    ],
+    "unesco": "439",
+    "query": "Forbidden City Beijing",
+    "subtitle": "红墙金瓦之间，遇见东方秩序",
+    "intro": "北京故宫是明清两代的皇宫，以严谨的中轴布局和规模宏大的木构建筑群著称。宫殿、庭院与门阙按层次展开，屋顶的色彩、彩画与石雕则提供了丰富的观察细节。这里既是一处建筑遗产，也是理解中国宫廷文化的重要空间。",
+    "highlights": [
+      "沿中轴线感受宫殿的空间序列",
+      "观察屋檐、彩画和石雕细部",
+      "在庭院间寻找红墙与光影"
+    ],
+    "image": "/images/forbidden-city.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/439/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Sunset of the Forbidden City 2006.JPG",
+      "author": "User:kallgan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Sunset_of_the_Forbidden_City_2006.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sunset_of_the_Forbidden_City_2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Sunset_of_the_Forbidden_City_2006.JPG/1280px-Sunset_of_the_Forbidden_City_2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Sunset of the northwest corner of the Forbidden City."
+    }
+  },
+  {
+    "id": "west-lake",
+    "name": "杭州西湖",
+    "english": "West Lake",
+    "continent": "亚洲",
+    "country": "中国",
+    "province": "浙江",
+    "city": "杭州",
+    "category": "人文",
+    "tags": [
+      "湖泊",
+      "园林",
+      "诗意"
+    ],
+    "unesco": "1334",
+    "query": "West Lake Hangzhou",
+    "subtitle": "一半湖山，一半诗意生活",
+    "intro": "西湖文化景观以湖面为中心，将群山、堤岸、岛屿、寺塔和园林融为一体。历代诗画与园林营造不断丰富着这片湖山的意义。沿湖步行时，远山成为背景，桥与树影构成近景，让自然风光与城市生活保持着亲近的距离。",
+    "highlights": [
+      "沿堤岸散步，观察湖山的借景",
+      "在桥与岛之间寻找不同视角",
+      "把湖边的日常也写进游记"
+    ],
+    "photoFile": "File:20090524 Hangzhou West Lake 7531.jpg",
+    "image": "/images/west-lake.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/1334/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:20090524 Hangzhou West Lake 7531.jpg",
+      "author": "Jakub Hałun",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:20090524_Hangzhou_West_Lake_7531.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/20090524_Hangzhou_West_Lake_7531.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/20090524_Hangzhou_West_Lake_7531.jpg/1280px-20090524_Hangzhou_West_Lake_7531.jpg",
+      "description": "Boats on the West Lake in Hangzhou before sunset"
+    }
+  },
+  {
+    "id": "huangshan",
+    "name": "黄山",
+    "english": "Mount Huangshan",
+    "continent": "亚洲",
+    "country": "中国",
+    "province": "安徽",
+    "city": "黄山",
+    "category": "自然风光",
+    "tags": [
+      "山峰",
+      "松树",
+      "云海"
+    ],
+    "unesco": "547",
+    "query": "Huangshan mountains",
+    "subtitle": "云海翻涌，山石有了水墨的形状",
+    "intro": "黄山位于安徽南部，花岗岩山峰、奇松与变化的云雾构成了极具辨识度的山地景观。这里长期影响着中国山水画与文学中的山岳想象。登山途中，岩石的形态、松树的姿态和山谷里的光线，常常比一张全景更值得停留。",
+    "highlights": [
+      "观察花岗岩山峰的轮廓",
+      "记录松树与岩壁的关系",
+      "在不同观景点感受群峰层次"
+    ],
+    "image": "/images/huangshan.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/547/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Huangshan mist 20141109.jpg",
+      "author": "颐园居",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Huangshan_mist_20141109.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Huangshan_mist_20141109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Huangshan_mist_20141109.jpg/1280px-Huangshan_mist_20141109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "​云雾中的黄山景区"
+    }
+  },
+  {
+    "id": "suzhou",
+    "name": "苏州古典园林",
+    "english": "Gardens of Suzhou",
+    "continent": "亚洲",
+    "country": "中国",
+    "province": "江苏",
+    "city": "苏州",
+    "category": "人文",
+    "tags": [
+      "园林",
+      "建筑",
+      "江南"
+    ],
+    "unesco": "813",
+    "query": "Humble Administrator Garden",
+    "subtitle": "在一方庭院里，看见整座山水",
+    "intro": "苏州古典园林把山水意境收进有限的城市空间。水池、假山、亭廊与植物经过精心安排，窗洞与转折的路径让景色随着步伐变化。它们体现了中国文人对自然与居住的理解，也适合用慢行的方式观察一处空间如何不断生成新的画面。",
+    "highlights": [
+      "透过漏窗寻找框景",
+      "沿廊道体验移步换景",
+      "留意水面、石与植物的呼应"
+    ],
+    "image": "/images/suzhou.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/813/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Humble Administrator's Garden Suzhou November 2017 008.jpg",
+      "author": "King of Hearts",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_008.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Humble_Administrator%27s_Garden_Suzhou_November_2017_008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Humble_Administrator%27s_Garden_Suzhou_November_2017_008.jpg/1280px-Humble_Administrator%27s_Garden_Suzhou_November_2017_008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Mountain View Tower, Humble Administrator's Garden, Suzhou, China."
+    }
+  },
+  {
+    "id": "lijiang",
+    "name": "丽江古城",
+    "english": "Old Town of Lijiang",
+    "continent": "亚洲",
+    "country": "中国",
+    "province": "云南",
+    "city": "丽江",
+    "category": "人文",
+    "tags": [
+      "古城",
+      "街巷",
+      "纳西文化"
+    ],
+    "unesco": "811",
+    "query": "Lijiang old town",
+    "subtitle": "顺着水流，走进高原上的旧时光",
+    "intro": "丽江古城位于云南高原，传统建筑、街巷与水系共同形成了独特的城镇肌理。古城体现了多种文化在交流中形成的地方特色，其中纳西文化尤其鲜明。比起匆匆走完一条主街，沿着支流与小巷慢慢探索，更能读到这座城的空间与生活。",
+    "highlights": [
+      "沿水系观察古城街巷",
+      "细看传统民居的院落结构",
+      "在公共空间了解地方文化"
+    ],
+    "image": "/images/lijiang.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/811/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:1 lijiang old town night.jpg",
+      "author": "chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:1_lijiang_old_town_night.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/1_lijiang_old_town_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/1_lijiang_old_town_night.jpg/1280px-1_lijiang_old_town_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "old town of lijiang yunnan china 2012 night unesco world heritage site"
+    }
+  },
+  {
+    "id": "fuji",
+    "name": "富士山",
+    "english": "Mount Fuji",
+    "continent": "亚洲",
+    "country": "日本",
+    "province": "山梨／静冈",
+    "city": "富士山周边",
+    "category": "自然风光",
+    "tags": [
+      "火山",
+      "湖泊",
+      "远眺"
+    ],
+    "unesco": "1418",
+    "query": "Mount Fuji Lake Kawaguchi",
+    "subtitle": "在湖的另一岸，等一座山显影",
+    "intro": "富士山是一座形态鲜明的火山，也长期作为信仰对象和艺术创作的灵感来源。山体与周围的湖泊、村落及朝圣地点共同构成文化景观。从远处观看时，近景的水面与建筑让山的尺度更容易被感知，而云层又让每一次相遇都不同。",
+    "highlights": [
+      "从湖岸观察富士山的轮廓",
+      "了解山岳信仰与艺术的联系",
+      "用近景衬托山体的尺度"
+    ],
+    "image": "/images/fuji.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/1418/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Lake Kawaguchiko Sakura Mount Fuji 4.JPG",
+      "author": "Midori",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Lake_Kawaguchiko_Sakura_Mount_Fuji_4.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Lake_Kawaguchiko_Sakura_Mount_Fuji_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Lake_Kawaguchiko_Sakura_Mount_Fuji_4.JPG/1280px-Lake_Kawaguchiko_Sakura_Mount_Fuji_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Mount Fuji and Cherry Blossoms"
+    }
+  },
+  {
+    "id": "kyoto",
+    "name": "京都古都",
+    "english": "Historic Kyoto",
+    "continent": "亚洲",
+    "country": "日本",
+    "province": "京都府",
+    "city": "京都",
+    "category": "人文",
+    "tags": [
+      "寺院",
+      "庭园",
+      "古都"
+    ],
+    "unesco": "688",
+    "query": "Kinkakuji",
+    "subtitle": "把脚步放慢，听庭院里的风",
+    "intro": "京都的历史建筑群保存了日本木构建筑与庭园艺术的丰富传统。寺院、神社与城堡分布在城市及周边地区，各自呈现不同的空间秩序。水面倒影、苔藓、砂石与树木让庭园成为可以细读的景观，也让古都的文化在行走中逐渐展开。",
+    "highlights": [
+      "观察木构建筑与庭园的联系",
+      "在庭院里感受留白与层次",
+      "把寺院之外的街巷也纳入散步"
+    ],
+    "image": "/images/kyoto.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/688/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Water reflection of Kinkaku-ji Temple a sunny day, Kyoto, Japan.jpg",
+      "author": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg/1280px-Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Wide-frame view and water reflection of Kinkaku-ji Temple, a sunny day, Kyoto, Japan."
+    }
+  },
+  {
+    "id": "angkor",
+    "name": "吴哥古迹",
+    "english": "Angkor",
+    "continent": "亚洲",
+    "country": "柬埔寨",
+    "province": "暹粒省",
+    "city": "暹粒",
+    "category": "古迹",
+    "tags": [
+      "寺庙",
+      "石刻",
+      "文明"
+    ],
+    "unesco": "668",
+    "query": "Angkor Wat",
+    "subtitle": "石刻与树影里，重逢高棉文明",
+    "intro": "吴哥是高棉文明留下的重要遗址群，分布着寺庙、城市遗迹、水库与运河等设施。吴哥窟的建筑与浮雕尤具代表性，也显示出宗教观念与工程技艺的结合。游览时把注意力从宏大的轮廓转向回廊与石刻，会看见更多关于历史与日常的细节。",
+    "highlights": [
+      "观察寺庙的轴线与塔群",
+      "细读回廊中的浮雕故事",
+      "认识水利系统与古城的关系"
+    ],
+    "image": "/images/angkor.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/668/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Angkor Wat with its reflection (cropped).jpg",
+      "author": "Satdeep Gill",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Angkor_Wat_with_its_reflection_(cropped).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg/1280px-Angkor_Wat_with_its_reflection_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Angkor Wat with its reflection"
+    }
+  },
+  {
+    "id": "taj-mahal",
+    "name": "泰姬陵",
+    "english": "Taj Mahal",
+    "continent": "亚洲",
+    "country": "印度",
+    "province": "北方邦",
+    "city": "阿格拉",
+    "category": "古迹",
+    "tags": [
+      "陵墓",
+      "大理石",
+      "建筑"
+    ],
+    "unesco": "252",
+    "query": "Taj Mahal",
+    "subtitle": "白色大理石，写下时间里的深情",
+    "intro": "泰姬陵位于阿格拉，是莫卧儿时期具有代表性的陵墓建筑。白色大理石主体、对称的花园与水道共同组织起完整的空间，石材镶嵌与书法装饰则展现了精细工艺。光线变化使建筑呈现不同色调，细看材质与比例同样是理解它的方式。",
+    "highlights": [
+      "沿花园中轴观察建筑对称性",
+      "欣赏大理石镶嵌与装饰细节",
+      "寻找水面倒影与建筑的呼应"
+    ],
+    "image": "/images/taj-mahal.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/252/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Taj Mahal, Agra, India edit2.jpg",
+      "author": "Yann; edited by King of Hearts",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg/1280px-Taj_Mahal%2C_Agra%2C_India_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Taj Mahal, Agra, India."
+    }
+  },
+  {
+    "id": "venice",
+    "name": "威尼斯",
+    "english": "Venice and its Lagoon",
+    "continent": "欧洲",
+    "country": "意大利",
+    "province": "威尼托大区",
+    "city": "威尼斯",
+    "category": "人文",
+    "tags": [
+      "水城",
+      "街巷",
+      "建筑"
+    ],
+    "unesco": "394",
+    "query": "Venice Grand Canal",
+    "subtitle": "当街道变成河流，日常也有了诗意",
+    "intro": "威尼斯建在潟湖岛屿之上，运河、桥梁与密集的建筑共同构成水城的肌理。城市的艺术与建筑反映了长期的贸易和文化交流。离开最繁忙的水道，步入小广场与窄巷，会发现这里的魅力也藏在水边的门、窗以及往来的日常之中。",
+    "highlights": [
+      "从桥上看运河两岸的建筑",
+      "走进小巷与邻里广场",
+      "观察城市与潟湖的相互关系"
+    ],
+    "image": "/images/venice.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/394/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017.jpg",
+      "author": "Martin Falbisoner",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Canal_Grande_and_Ponte_di_Rialto,_Venice_-_September_2017.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg/1280px-Panorama_of_Canal_Grande_and_Ponte_di_Rialto%2C_Venice_-_September_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Canal Grande and Rialto Bridge, Venice - part of UNESCO World Heritage Site Ref. Number 394."
+    }
+  },
+  {
+    "id": "rome",
+    "name": "罗马历史中心",
+    "english": "Historic Rome",
+    "continent": "欧洲",
+    "country": "意大利",
+    "province": "拉齐奥大区",
+    "city": "罗马",
+    "category": "古迹",
+    "tags": [
+      "遗址",
+      "古城",
+      "建筑"
+    ],
+    "unesco": "91",
+    "query": "Colosseum Rome",
+    "subtitle": "在城市的转角，与千年相遇",
+    "intro": "罗马历史中心将古代遗址、宗教建筑与后世城市空间叠合在一起。斗兽场、广场与道路见证了古罗马的公共生活，后来的建筑则不断给城市加入新的层次。在这里，历史并不只存在于一座孤立的遗迹中，也延续在街道与城市轮廓之间。",
+    "highlights": [
+      "观察斗兽场的拱券与尺度",
+      "在遗址与街道之间读城市演变",
+      "用步行串联不同历史层次"
+    ],
+    "image": "/images/rome.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/91/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Colosseum in Rome-April 2007-1- copie 2B.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/1280px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "A 4×4 segment panorama of the Colosseum at dusk. Taken by myself with a Canon 5D and 50mm f/1.8 lens at f/5.6."
+    }
+  },
+  {
+    "id": "paris",
+    "name": "巴黎塞纳河畔",
+    "english": "Banks of the Seine",
+    "continent": "欧洲",
+    "country": "法国",
+    "province": "法兰西岛大区",
+    "city": "巴黎",
+    "category": "人文",
+    "tags": [
+      "河岸",
+      "建筑",
+      "城市漫步"
+    ],
+    "unesco": "600",
+    "query": "Paris Seine Eiffel",
+    "subtitle": "沿着塞纳河，收集城市的光",
+    "intro": "巴黎塞纳河畔集中展现了城市长期发展的建筑与公共空间。河流串联起桥梁、岛屿、博物馆和重要地标，形成可以步行阅读的城市长卷。与其赶着抵达每个地标，不如沿水岸慢行，观察建筑如何面对河流，人与城市又如何在岸边相遇。",
+    "highlights": [
+      "沿河岸串联城市地标",
+      "从桥梁观察两岸空间",
+      "记录河边的公共生活"
+    ],
+    "photoFile": "File:Eiffel Tower and Seine River, Paris September 2015.jpg",
+    "image": "/images/paris.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/600/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Eiffel Tower and Seine River, Paris September 2015.jpg",
+      "author": "VarockAndRoll",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_and_Seine_River,_Paris_September_2015.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Eiffel_Tower_and_Seine_River%2C_Paris_September_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Eiffel_Tower_and_Seine_River%2C_Paris_September_2015.jpg/1280px-Eiffel_Tower_and_Seine_River%2C_Paris_September_2015.jpg",
+      "description": "Eiffel Tower and Seine River, Paris."
+    }
+  },
+  {
+    "id": "plitvice",
+    "name": "十六湖国家公园",
+    "english": "Plitvice Lakes",
+    "continent": "欧洲",
+    "country": "克罗地亚",
+    "province": "利卡地区",
+    "city": "普利特维采",
+    "category": "自然风光",
+    "tags": [
+      "湖泊",
+      "瀑布",
+      "森林"
+    ],
+    "unesco": "98",
+    "query": "Plitvice Lakes waterfalls",
+    "subtitle": "水流穿过森林，串起层叠的蓝绿",
+    "intro": "普利特维采湖群以湖泊、瀑布与石灰华屏障形成的连续水景闻名。水与地质、生物过程共同塑造着这里，湖水在森林包围中呈现丰富的蓝绿色。沿步道观察上下游的变化，能更直观地理解这片景观并非静止的画面，而是持续生长的自然系统。",
+    "highlights": [
+      "看湖泊通过瀑布相互连接",
+      "留意石灰华屏障的形态",
+      "从步道感受森林与水的层次"
+    ],
+    "image": "/images/plitvice.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/98/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Rainbow at Waterfalls of Plitvice Lakes.jpg",
+      "author": "OrionCro",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Rainbow_at_Waterfalls_of_Plitvice_Lakes.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Rainbow_at_Waterfalls_of_Plitvice_Lakes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Rainbow_at_Waterfalls_of_Plitvice_Lakes.jpg/1280px-Rainbow_at_Waterfalls_of_Plitvice_Lakes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Rainbow at Waterfalls of Plitvice Lakes"
+    }
+  },
+  {
+    "id": "giza",
+    "name": "吉萨金字塔",
+    "english": "Pyramids of Giza",
+    "continent": "非洲",
+    "country": "埃及",
+    "province": "吉萨省",
+    "city": "吉萨",
+    "category": "古迹",
+    "tags": [
+      "金字塔",
+      "文明",
+      "沙漠"
+    ],
+    "unesco": "86",
+    "query": "Giza pyramids",
+    "subtitle": "风吹过沙漠，时间有了轮廓",
+    "intro": "吉萨金字塔群属于孟菲斯及其墓地遗产，是认识古埃及文明的重要地点。巨大的石构体量、墓葬建筑与周边遗迹共同呈现了古代社会的组织能力与信仰观念。在沙漠边缘观看金字塔，比例、方向和石块细节都能带来不同于照片的感受。",
+    "highlights": [
+      "从远处观察金字塔群的布局",
+      "近看石块与几何形体",
+      "联系周边墓地理解古埃及文化"
+    ],
+    "image": "/images/giza.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/86/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:All Gizah Pyramids.jpg",
+      "author": "Ricardo Liberato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1280px-All_Gizah_Pyramids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "All Giza Pyramids in one shot."
+    }
+  },
+  {
+    "id": "serengeti",
+    "name": "塞伦盖蒂",
+    "english": "Serengeti National Park",
+    "continent": "非洲",
+    "country": "坦桑尼亚",
+    "province": "马拉／锡米尤",
+    "city": "塞伦盖蒂",
+    "category": "自然风光",
+    "tags": [
+      "草原",
+      "野生动物",
+      "生态"
+    ],
+    "unesco": "156",
+    "query": "Serengeti landscape",
+    "subtitle": "在辽阔草原，感受生命的节奏",
+    "intro": "塞伦盖蒂以辽阔的草原生态系统和大规模野生动物迁徙闻名。草食动物、捕食者与季节变化共同构成相互依存的生态网络。除了寻找动物，留意草原、疏林和天空之间的尺度，也能感受这片自然遗产的广阔与生命节奏。",
+    "highlights": [
+      "观察草原生态中的相互关系",
+      "欣赏疏林与开阔平原的变化",
+      "保持距离，以安静的方式看动物"
+    ],
+    "image": "/images/serengeti.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/156/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Serengeti-Landscape-2012.JPG",
+      "author": "Bjørn Christian Tørrissen",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Serengeti-Landscape-2012.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Serengeti-Landscape-2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Serengeti-Landscape-2012.JPG/1280px-Serengeti-Landscape-2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "A fairly typical example of the scenery in Serengeti National Park in western Tanzania. The plains are wide and full of grass, with trees, mainly acacias, dotted around the landscape."
+    }
+  },
+  {
+    "id": "victoria-falls",
+    "name": "维多利亚瀑布",
+    "english": "Victoria Falls",
+    "continent": "非洲",
+    "country": "赞比亚／津巴布韦",
+    "province": "南方省／北马塔贝莱兰省",
+    "city": "利文斯通／维多利亚瀑布城",
+    "category": "自然风光",
+    "tags": [
+      "瀑布",
+      "峡谷",
+      "河流"
+    ],
+    "unesco": "509",
+    "query": "Victoria Falls",
+    "subtitle": "奔涌的河流，落成一整面水幕",
+    "intro": "维多利亚瀑布位于赞比西河上，横跨赞比亚和津巴布韦边界。宽阔的河水跌入狭窄峡谷，形成壮观的水幕与水雾。瀑布以及下游的峡谷系统一起呈现了河流塑造地形的力量，也让声音、湿润的空气成为观看之外的另一层体验。",
+    "highlights": [
+      "从步道观察瀑布与峡谷",
+      "留意水雾塑造的局部环境",
+      "了解赞比西河的地形变化"
+    ],
+    "photoFile": "File:Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 05.jpg",
+    "image": "/images/victoria-falls.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/509/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 05.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_05.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_05.jpg/1280px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_05.jpg",
+      "description": "Victoria Falls, Zambia-Zimbabwe"
+    }
+  },
+  {
+    "id": "grand-canyon",
+    "name": "大峡谷",
+    "english": "Grand Canyon",
+    "continent": "北美洲",
+    "country": "美国",
+    "province": "亚利桑那州",
+    "city": "大峡谷国家公园",
+    "category": "自然风光",
+    "tags": [
+      "峡谷",
+      "地质",
+      "河流"
+    ],
+    "unesco": "75",
+    "query": "Grand Canyon south rim",
+    "subtitle": "站在时间的切面，听大地的回声",
+    "intro": "大峡谷由科罗拉多河及长期的地质作用塑造，层层岩壁记录了漫长的地球历史。峡谷的尺度往往需要通过远处的河流与台地来理解。站在边缘，光线让岩层与沟壑逐渐显现；把目光从全景移向细节，也能读到地貌形成的过程。",
+    "highlights": [
+      "观察不同岩层的色彩与纹理",
+      "寻找河流与峡谷的尺度对比",
+      "从多个观景点理解地形层次"
+    ],
+    "photoFile": "File:Grand Canyon Powell Point Evening Light 02 2013.jpg",
+    "image": "/images/grand-canyon.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/75/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Grand Canyon Powell Point Evening Light 02 2013.jpg",
+      "author": "Tuxyso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Powell_Point_Evening_Light_02_2013.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Grand_Canyon_Powell_Point_Evening_Light_02_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Grand_Canyon_Powell_Point_Evening_Light_02_2013.jpg/1280px-Grand_Canyon_Powell_Point_Evening_Light_02_2013.jpg",
+      "description": "Grand Canyon South Rim photographed from Powell Point with warm evening light"
+    }
+  },
+  {
+    "id": "yellowstone",
+    "name": "黄石国家公园",
+    "english": "Yellowstone",
+    "continent": "北美洲",
+    "country": "美国",
+    "province": "怀俄明州等",
+    "city": "黄石国家公园",
+    "category": "自然风光",
+    "tags": [
+      "温泉",
+      "地热",
+      "荒野"
+    ],
+    "unesco": "28",
+    "query": "Grand Prismatic Spring",
+    "subtitle": "看大地的热量，绘出斑斓色彩",
+    "intro": "黄石保存了极具代表性的地热景观，间歇泉、温泉与火山地质共同展示地球内部的活力。温泉周围的色带与微生物及环境条件相关，森林、河谷和野生动物又让这里远不止地热奇观。认识自然的力量，也意味着沿规定步道保持合适距离。",
+    "highlights": [
+      "观察温泉色带与地热形态",
+      "了解火山地质与水的联系",
+      "在规定步道上欣赏自然景观"
+    ],
+    "image": "/images/yellowstone.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/28/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Grand_Prismatic_Spring_--_2022_--_2514.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/1280px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Grand Prismatic Spring, Yellowstone National Park, Wyoming, USAYellowstone National Park was founded on March 1, 1872, and is considered the world’s first national park. It is located primarily in the state of Wyoming, but also extends into Montana and Idaho. The initiative to establish the park was based on scientific expeditions from 1869 to 1871, which documented the unique landscape. President Ulysses S. Grant signed the protection law.The park covers approximately 8,983 km² and is located on a massive volcanic hotspot. About half of all geysers worldwide are found here. The Old Faithful geyser, which erupts approximately every 90 minutes, is famous. In addition to geysers, hot springs, mud pots, and the colorful Grand Prismatic Spring characterize the area.Yellowstone is also an important wildlife refuge. Since the reintroduction of wolves in 1995, it has been considered a model project for nature conservation. The park attracts several million visitors annually and has been a UNESCO World Heritage Site since 1978."
+    }
+  },
+  {
+    "id": "machu-picchu",
+    "name": "马丘比丘",
+    "english": "Machu Picchu",
+    "continent": "南美洲",
+    "country": "秘鲁",
+    "province": "库斯科大区",
+    "city": "乌鲁班巴省",
+    "category": "古迹",
+    "tags": [
+      "印加文明",
+      "山地",
+      "遗址"
+    ],
+    "unesco": "274",
+    "query": "Machu Picchu",
+    "subtitle": "云端的石城，仍在讲述山的故事",
+    "intro": "马丘比丘坐落在安第斯山地的壮丽环境中，石构建筑、梯田与周围山峰紧密结合。遗址体现了印加文明适应山地地形的技艺与空间组织能力。观看时不妨同时留意建筑的细致砌筑和整个山地环境，才能感受文化与自然共同形成的价值。",
+    "highlights": [
+      "从全景观察遗址与群山",
+      "细看石墙砌筑与梯田布局",
+      "理解印加文明的山地适应方式"
+    ],
+    "image": "/images/machu-picchu.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/274/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Machu Picchu, Perú, 2015-07-30, DD 47.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_47.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG/1280px-Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "View of the ancient houses of Machu Picchu houses, Urubamba Province, Cusco Region, today Peru. The 15th-century Inca citadel, abandoned one century later, is situated in the Sacred Valley on a mountain ridge 2,430 metres (7,970 ft) above sea level."
+    }
+  },
+  {
+    "id": "iguazu",
+    "name": "伊瓜苏瀑布",
+    "english": "Iguazu Falls",
+    "continent": "南美洲",
+    "country": "阿根廷",
+    "province": "米西奥内斯省",
+    "city": "伊瓜苏港",
+    "category": "自然风光",
+    "tags": [
+      "瀑布",
+      "雨林",
+      "河流"
+    ],
+    "unesco": "303",
+    "query": "Iguazu Falls",
+    "subtitle": "雨林尽头，河流唱出磅礴的歌",
+    "intro": "伊瓜苏瀑布位于阿根廷与巴西交界的伊瓜苏河上，瀑布群与周边亚热带森林共同构成丰富的自然景观。水流被岛屿和岩壁分割，形成层叠的跌落与弥漫的水雾。本条目介绍阿根廷一侧的国家公园，从不同步道能够感受水景与森林的连接。",
+    "highlights": [
+      "从不同角度观察瀑布群",
+      "留意水雾与森林形成的景观",
+      "体验河流分叉与汇合的节奏"
+    ],
+    "image": "/images/iguazu.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/303/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:00 1838 Iguazu Falls from the Brazilian side.jpg",
+      "author": "W. Bulach",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:00_1838_Iguazu_Falls_from_the_Brazilian_side.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/00_1838_Iguazu_Falls_from_the_Brazilian_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/00_1838_Iguazu_Falls_from_the_Brazilian_side.jpg/1280px-00_1838_Iguazu_Falls_from_the_Brazilian_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Iguazú-Wasserfälle:  insgesamt 20 größeren sowie 255 kleinere Wasserfälle auf einer Ausdehnung von 2,7 Kilometern. Aufnahme von der Brasilianische Seite bei Hochwasser."
+    }
+  },
+  {
+    "id": "sydney",
+    "name": "悉尼歌剧院",
+    "english": "Sydney Opera House",
+    "continent": "大洋洲",
+    "country": "澳大利亚",
+    "province": "新南威尔士州",
+    "city": "悉尼",
+    "category": "人文",
+    "tags": [
+      "建筑",
+      "海港",
+      "艺术"
+    ],
+    "unesco": "166",
+    "query": "Sydney Opera House",
+    "subtitle": "海风吹起白帆，建筑成为风景",
+    "intro": "悉尼歌剧院坐落在海港边，以相互呼应的壳状屋顶和鲜明的雕塑感著称。建筑将结构、工程与表演艺术空间结合，成为二十世纪建筑的重要作品。沿海岸绕行，屋顶轮廓会随着视角变化，也能更好地感受建筑与城市公共空间的联系。",
+    "highlights": [
+      "从不同海岸角度观察屋顶",
+      "细看外表面材质与结构",
+      "感受建筑与海港公共空间"
+    ],
+    "image": "/images/sydney.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/166/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Sydney Opera House - Dec 2008.jpg",
+      "author": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sydney_Opera_House_-_Dec_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Sydney_Opera_House_-_Dec_2008.jpg/1280px-Sydney_Opera_House_-_Dec_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "A exposure blended photo of the Sydney Opera House, as viewed from the Sydney Harbour Bridge. Taken by myself with a Canon 5D and 100mm f/2.8 macro lens."
+    }
+  },
+  {
+    "id": "great-barrier-reef",
+    "name": "大堡礁",
+    "english": "Great Barrier Reef",
+    "continent": "大洋洲",
+    "country": "澳大利亚",
+    "province": "昆士兰州",
+    "city": "昆士兰沿海",
+    "category": "自然风光",
+    "tags": [
+      "海洋",
+      "珊瑚礁",
+      "生态"
+    ],
+    "unesco": "154",
+    "query": "Great Barrier Reef aerial",
+    "subtitle": "把目光投向蓝色，遇见海洋的花园",
+    "intro": "大堡礁位于澳大利亚东北沿海，由众多珊瑚礁与岛屿共同组成广阔的海洋生态系统。不同水深与礁体呈现丰富的蓝绿色层次，海洋生物则让景观拥有更深的生命意义。认识珊瑚与海洋环境的关系，是理解这片世界自然遗产的重要部分。",
+    "highlights": [
+      "观察礁体与海水的色彩层次",
+      "了解珊瑚礁生态系统",
+      "选择尊重海洋环境的体验方式"
+    ],
+    "image": "/images/great-barrier-reef.jpg",
+    "sourceUrl": "https://whc.unesco.org/en/list/154/",
+    "textLicense": "CC BY-SA 3.0 IGO",
+    "textLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+    "textNote": "依据 UNESCO 世界遗产资料进行中文整理，非逐字翻译。亮点为编辑观察建议。",
+    "collectedAt": "2026-10-27",
+    "photo": {
+      "title": "File:Aerial View of Great Barrier Reef (Ank Kumar) 09.jpg",
+      "author": "Ank Kumar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Great_Barrier_Reef_(Ank_Kumar)_09.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_09.jpg/1280px-Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "description": "Aerial View of Great Barrier Reef"
+    }
+  }
+]

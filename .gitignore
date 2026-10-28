@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Local configuration and development notes
+.env
+.env.*
+!.env.example
+*.local
+进度与续接.md
